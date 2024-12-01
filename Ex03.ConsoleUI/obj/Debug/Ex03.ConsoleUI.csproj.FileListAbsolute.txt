@@ -1,0 +1,11 @@
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\aviv1\source\repos\B24 Ex03 Aviv 209518844 Sara 209297225\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
